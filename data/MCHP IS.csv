@@ -1,0 +1,80 @@
+,,,,,,,,,,,
+Microchip Technology Inc (MCHP US) - Adjusted,,,,,,,,,,,
+,,,,,,,,,,,
+In Millions of USD except Per Share,,FY 2014,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019,FY 2020,Last 12M,FY 2021 Est,FY 2022 Est
+12 Months Ending,,03/31/2014,03/31/2015,03/31/2016,03/31/2017,03/31/2018,03/31/2019,03/31/2020,09/30/2020,03/31/2021,03/31/2022
+Revenue,SALES_REV_TURN,"1,931.2","2,147.0","2,173.3","3,407.8","3,980.8","5,349.5","5,274.2","5,233.0","5,356.7","5,920.1"
+    + Sales & Services Revenue,IS_SALES_AND_SERVICES_REVENUES,"1,931.2","2,147.0","2,173.3","3,407.8","3,980.8","5,349.5","5,274.2","5,233.0",,
+  - Cost of Revenue,IS_COGS_TO_FE_AND_PP_AND_G,802.5,917.5,967.8,"1,650.6","1,560.1","2,418.2","2,032.1","2,027.4",,
+    + Cost of Goods & Services,IS_COG_AND_SERVICES_SOLD,802.5,917.5,967.8,"1,650.6","1,560.1","2,418.2","2,032.1","2,027.4",,
+Gross Profit,GROSS_PROFIT,"1,128.7","1,229.6","1,205.5","1,757.2","2,420.7","2,931.3","3,242.1","3,205.6","3,339.2","3,739.7"
+  + Other Operating Income,IS_OTHER_OPER_INC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+  - Operating Expenses,IS_OPERATING_EXPN,664.2,780.8,818.5,"1,153.8","1,462.8","2,139.2","2,512.5","2,407.2",,
+"    + Selling, General & Admin",IS_SG&A_EXPENSE,267.3,270.8,301.7,472.6,442.0,641.0,640.9,605.7,,
+    + Research & Development,IS_OPEX_R&D,305.0,349.5,372.6,545.3,529.3,824.9,877.7,836.7,,
+    + Other Operating Expense,IS_OTHER_OPERATING_EXPENSES,91.9,160.4,144.2,135.9,491.5,673.3,993.9,964.8,,
+Operating Income (Loss),IS_OPER_INC,464.5,448.8,387.0,603.4,957.9,792.1,729.6,798.4,"2,093.7","2,392.6"
+  - Non-Operating (Income) Loss,IS_NONOP_INCOME_LOSS,28.2,47.6,83.0,140.7,167.5,491.2,493.9,428.1,,
+"    + Interest Expense, Net",IS_NET_INTEREST_EXPENSE,32.2,42.5,79.6,143.2,177.0,494.8,494.5,425.8,,
+    + Interest Expense,IS_INT_EXPENSE,48.7,62.0,104.0,146.3,199.0,502.9,497.3,427.5,,
+    - Interest Income,IS_INT_INC,16.5,19.5,24.4,3.1,22.0,8.1,2.8,1.7,,
+    + Foreign Exch (Gain) Loss,IS_FOREIGN_EXCH_LOSS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+    + (Income) Loss from Affiliates,INCOME_LOSS_FROM_AFFILIATES,0.2,0.3,0.3,0.2,0.2,0.2,0.0,,,
+    + Other Non-Op (Income) Loss,IS_OTHER_NON_OPERATING_INC_LOSS,-4.2,4.7,3.1,-2.7,-9.7,-3.8,-0.6,2.3,,
+"Pretax Income (Loss), Adjusted",PRETAX_INC,436.3,401.2,304.1,462.7,790.4,300.9,235.7,370.3,"1,793.4","2,117.6"
+  - Abnormal Losses (Gains),IS_ABNORMAL_ITEM,4.0,55.3,22.8,372.9,53.1,96.4,85.3,135.6,,
+    + Merger/Acquisition Expense,IS_MERGER_ACQUISITION_EXPENSE,2.7,18.1,34.8,217.7,10.1,44.1,35.8,21.7,,
+    + Disposal of Assets,IS_GAIN_LOSS_DISPOSAL_ASSETS,—,—,-1.0,-0.1,-5.9,—,—,,,
+    + Early Extinguishment of Debt,IS_G_L_ON_EXT_DBT_OR_SETTLE_DBT,—,50.6,—,43.9,16.0,12.6,5.4,75.4,,
+    + Asset Write-Down,IS_IMPAIRMENT_ASSETS,—,0.4,—,—,—,—,—,,,
+    + Impairment of Intangibles,IS_IMPAIR_OF_INTANG_ASSETS,—,1.9,0.6,11.9,0.5,—,—,,,
+    + Legal Settlement,IS_LEGAL_LITIGATION_SETTLEMENT,—,—,—,—,—,—,—,,,
+    + Restructuring,IS_RESTRUCTURING_EXPENSES,3.0,2.8,4.0,—,—,—,—,,,
+    + Sale of Investments,IS_GAIN_LOSS_ON_INVESTMENTS,-2.4,-18.5,-16.0,—,—,6.0,-2.6,,,
+    + Unrealized Investments,IS_UNREALIZED_INVESTMENTS,—,—,4.0,1.4,15.5,—,—,,,
+    + Other Abnormal Items,IS_OTHER_ONE_TIME_ITEMS,0.7,—,-3.6,98.1,16.9,33.7,46.7,23.9,,
+"Pretax Income (Loss), GAAP",PRETAX_INC,432.4,345.9,281.3,89.8,737.3,204.5,150.4,234.7,"1,793.4","2,117.6"
+  - Income Tax Expense (Benefit),IS_INC_TAX_EXP,37.1,-19.4,-42.6,-80.8,481.9,-151.4,-420.2,-373.5,,
+    + Current Income Tax,IS_CURRENT_INCOME_TAX_BENEFIT,31.8,13.4,17.8,46.1,430.7,-89.2,70.1,,,
+    + Deferred Income Tax,IS_DEFERRED_INCOME_TAX_BENEFIT,5.3,-32.8,-60.4,-126.9,51.2,-62.2,-490.3,,,
+    + Tax Allowance/Credit,IS_TAX_VALN_ALLOWNCE_CREDITS,—,—,—,—,—,—,—,,,
+Income (Loss) from Cont Ops,IS_INC_BEF_XO_ITEM,395.3,365.3,323.9,170.6,255.4,355.9,570.6,608.2,458.4,762.1
+  - Net Extraordinary Losses (Gains),XO_GL_NET_OF_TAX,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,,
+    + Discontinued Operations,IS_DISCONTINUED_OPERATIONS,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,,
+    + XO & Accounting Changes,IS_EXTRAORD_ITEMS_&_ACCTG_CHNG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Income (Loss) Incl. MI,NI_INCLUDING_MINORITY_INT_RATIO,395.3,365.3,323.9,164.6,255.4,355.9,570.6,608.2,,
+  - Minority Interest,MIN_NONCONTROL_INTEREST_CREDITS,0.0,-3.7,-0.2,0.0,0.0,0.0,0.0,0.0,,
+"Net Income, GAAP",NET_INCOME,395.3,369.0,324.1,164.6,255.4,355.9,570.6,608.2,458.4,762.1
+  - Preferred Dividends,IS_TOT_CASH_PFD_DVD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+  - Other Adjustments,OTHER_ADJUSTMENTS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Net Income Avail to Common, GAAP",EARN_FOR_COMMON,395.3,369.0,324.1,164.6,255.4,355.9,570.6,608.2,458.4,762.1
+,,,,,,,,,,,
+"Net Income Avail to Common, Adj",EARN_FOR_COMMON,383.0,360.7,308.4,401.6,763.3,433.6,624.1,476.5,"1,695.2","1,993.1"
+  Net Abnormal Losses (Gains),IS_NET_ABNORMAL_ITEMS,-12.3,-8.3,-15.7,231.0,507.9,77.7,53.5,-131.7,,
+  Net Extraordinary Losses (Gains),XO_GL_NET_OF_TAX,0.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,,
+,,,,,,,,,,,
+Basic Weighted Avg Shares,IS_AVG_NUM_SH_FOR_EPS,198.3,200.9,203.4,217.2,232.9,236.2,238.9,256.0,,
+"Basic EPS, GAAP",IS_EPS,1.99,1.84,1.59,0.76,1.10,1.51,2.39,2.51,1.67,2.72
+Basic EPS from Cont Ops,IS_EARN_BEF_XO_ITEMS_PER_SH,1.99,1.84,1.59,0.79,1.10,1.51,2.39,2.51,1.67,2.72
+"Basic EPS from Cont Ops, Adjusted",IS_BASIC_EPS_CONT_OPS,1.93,1.80,1.52,1.85,3.28,1.84,2.61,1.94,6.34,7.22
+,,,,,,,,,,,
+Diluted Weighted Avg Shares,IS_SH_FOR_DILUTED_EPS,217.6,223.6,217.4,234.8,248.9,249.9,256.2,267.7,,
+"Diluted EPS, GAAP",IS_DILUTED_EPS,1.82,1.65,1.49,0.71,1.03,1.42,2.23,2.34,1.67,2.72
+Diluted EPS from Cont Ops,IS_DIL_EPS_BEF_XO,1.82,1.65,1.49,0.73,1.03,1.42,2.23,2.34,1.67,2.72
+"Diluted EPS from Cont Ops, Adjusted",IS_DIL_EPS_CONT_OPS,1.76,1.61,1.42,1.71,3.07,1.73,2.44,1.82,6.34,7.22
+,,,,,,,,,,,
+Reference Items,,,,,,,,,,,
+Accounting Standard,ACCOUNTING_STANDARD,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,,,
+EBITDA,EBITDA,653.7,727.1,670.2,"1,072.6","1,573.8","1,668.5","1,996.0","2,014.2","2,252.2","2,520.9"
+EBITDA Margin (T12M),EBITDA_MARGIN,33.85,33.86,30.84,31.47,39.53,31.19,37.84,38.49,42.05,42.58
+EBITA,EBITA,564.0,629.8,566.3,949.7,"1,450.1","1,487.9","1,827.1","1,850.9",,
+EBIT,EBIT,464.5,448.8,387.0,603.4,957.9,792.1,729.6,798.4,"2,093.7","2,392.6"
+Gross Margin,GROSS_MARGIN,58.45,57.27,55.47,51.56,60.81,54.80,61.47,61.26,62.34,63.17
+Operating Margin,OPER_MARGIN,24.05,20.90,17.81,17.71,24.06,14.81,13.83,15.26,39.09,40.42
+Profit Margin,PROF_MARGIN,19.83,16.80,14.19,11.78,19.18,8.11,11.83,9.11,31.65,33.67
+Sales per Employee,ACTUAL_SALES_PER_EMPL,"223,520.49","227,223.62","222,537.37","269,263.59","279,668.40","292,546.21","293,011.11",,,
+Dividends per Share,EQY_DPS,1.42,1.43,1.43,1.44,1.45,1.46,1.47,1.47,1.47,1.48
+Total Cash Common Dividends,IS_TOT_CASH_COM_DVD,281.2,286.5,291.1,315.4,337.5,344.4,350.1,361.6,,
+Depreciation Expense,IS_DEPR_EXP,89.7,97.3,103.9,122.9,123.7,180.6,168.9,163.3,,
+Rental Expense,BS_CURR_RENTAL_EXPENSE,21.5,23.8,23.3,35.4,30.0,50.9,70.4,,,
+Source: Bloomberg,,Right click to show data transparency (not supported for all values),,,,,,,,,
