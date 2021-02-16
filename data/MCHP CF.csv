@@ -1,0 +1,70 @@
+,,,,,,,,,,,
+Microchip Technology Inc (MCHP US) - Standardized,,,,,,,,,,,
+,,,,,,,,,,,
+In Millions of USD except Per Share,,FY 2012,FY 2013,FY 2014,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019,FY 2020,Last 12M
+12 Months Ending,,03/31/2012,03/31/2013,03/31/2014,03/31/2015,03/31/2016,03/31/2017,03/31/2018,03/31/2019,03/31/2020,09/30/2020
+Cash from Operating Activities,,,,,,,,,,,
+  + Net Income,CF_NET_INC,336.7,127.4,395.3,369.0,324.1,164.6,255.4,355.9,570.6,608.2
+  + Depreciation & Amortization,CF_DEPR_AMORT,99.4,204.1,189.1,278.3,283.2,469.2,615.9,876.4,"1,215.6","1,189.5"
+  + Non-Cash Items,NON_CASH_ITEMS_DETAILED,92.0,83.7,125.9,79.9,59.1,256.5,338.8,233.6,-188.8,-32.9
+    + Stock-Based Compensation,CF_STOCK_BASED_COMPENSATION,37.7,51.8,52.4,57.4,70.6,128.1,93.2,166.4,170.2,176.3
+    + Deferred Income Taxes,CF_DEF_INC_TAX,22.0,-28.4,5.3,-32.8,-60.4,—,51.2,-62.2,-490.3,-427.5
+    + Other Non-Cash Adj,OTHER_NON_CASH_ADJ_LESS_DETAILED,32.4,60.3,68.2,55.3,48.9,128.4,194.4,129.4,131.3,218.3
+  + Chg in Non-Cash Work Cap,CF_CHNG_NON_CASH_WORK_CAP,-116.2,44.2,-33.8,-6.0,78.0,159.9,209.5,208.9,-53.6,-40.0
+    + (Inc) Dec in Accts Receiv,CF_ACCT_RCV_UNBILLED_REV,11.8,0.4,-12.5,-15.9,-2.1,-46.8,-85.3,238.8,-53.3,-55.1
+    + (Inc) Dec in Inventories,CF_CHANGE_IN_INVENTORIES,-35.2,65.9,-18.5,25.5,48.2,223.7,-59.2,341.6,28.8,70.4
+    + Inc (Dec) in Other,INC_DEC_IN_OT_OP_AST_LIAB_DETAIL,-92.8,-22.0,-2.8,-15.7,31.9,-17.0,354.0,-371.5,-29.1,-55.3
+  + Net Cash From Disc Ops,CF_NET_CASH_DISCONT_OPS_OPER,0.0,0.0,0.0,0.0,0.0,9.3,0.0,0.0,0.0,0.0
+Cash from Operating Activities,CF_CASH_FROM_OPER,412.0,459.4,676.6,721.2,744.4,"1,059.5","1,419.6","1,674.8","1,543.8","1,724.8"
+,,,,,,,,,,,
+Cash from Investing Activities,,,,,,,,,,,
+  + Change in Fixed & Intang,CHG_IN_FXD_&_INTANG_AST_DETAILED,-62.0,-50.5,-96.8,-149.5,-83.6,-52.3,-196.5,-228.7,-64.4,-38.9
+    + Disp in Fixed & Intang,DISP_FXD_&_INTANGIBLES_DETAILED,0.4,0.3,16.2,0.0,14.3,23.0,10.3,0.2,3.2,2.9
+    + Disp of Fixed Prod Assets,CF_DISPOSAL_OF_FIXED_PROD_ASSETS,0.4,0.3,16.2,0.0,14.3,23.0,10.3,0.2,3.2,2.9
+    + Disp of Intangible Assets,CF_DISPOSAL_OF_INTANGIBLE_ASSETS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Acq of Fixed & Intang,ACQUIS_FXD_&_INTANG_DETAILED,-62.4,-50.8,-113.1,-149.5,-97.9,-75.3,-206.8,-228.9,-67.6,-41.8
+    + Acq of Fixed Prod Assets,CF_PURCHASE_OF_FIXED_PROD_ASSETS,-62.4,-50.8,-113.1,-149.5,-97.9,-75.3,-206.8,-228.9,-67.6,-41.8
+    + Acq of Intangible Assets,CF_ACQUISITION_OF_INTANG_ASSETS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  + Net Change in LT Investment,NET_CHG_IN_LT_INVEST_DETAILED,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Dec in LT Investment,CF_DECR_INVEST,0.0,0.0,0.0,0.0,0.0,—,—,—,—,0.0
+    + Inc in LT Investment,CF_INCR_INVEST,0.0,0.0,0.0,0.0,0.0,—,—,—,—,0.0
+  + Net Cash From Acq & Div,CF_NT_CSH_RCVD_PD_FOR_ACQUIS_DIV,-38.6,-752.3,-11.2,-627.8,-343.9,"-2,747.5",0.0,"-7,850.6",0.0,0.0
+    + Cash from Divestitures,CF_CASH_FOR_DIVESTITURES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Cash for Acq of Subs,CF_CASH_FOR_ACQUIS_SUBSIDIARIES,-38.6,-752.3,-11.2,-627.8,-343.9,"-2,747.5",0.0,"-7,850.6",0.0,0.0
+    + Cash for JVs,CF_CASH_FOR_JOINT_VENTURES_ASSOC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  + Other Investing Activities,OTHER_INVESTING_ACT_DETAILED,-171.5,-147.1,-395.3,99.0,"1,227.9",-38.2,-815.2,"1,268.3",-68.8,-98.2
+  + Net Cash From Disc Ops,CF_NET_CASH_DISCONTINUED_OPS_INV,0.0,0.0,0.0,0.0,0.0,—,—,0.0,0.0,0.0
+Cash from Investing Activities,CF_CASH_FROM_INV_ACT,-272.0,-949.9,-503.3,-678.3,800.4,"-2,838.0","-1,011.7","-6,811.0",-133.2,-137.1
+,,,,,,,,,,,
+Cash from Financing Activities,,,,,,,,,,,
+  + Dividends Paid,CF_DVD_PAID,-266.2,-273.8,-281.2,-286.5,-291.1,-315.4,-337.5,-344.4,-350.1,-361.4
+  + Cash From (Repayment) Debt,PROC_FR_REPAYMNTS_BOR_DETAILED,0.0,620.0,30.0,401.7,589.5,964.0,-74.2,"5,109.8","-1,069.9","1,433.0"
+    + Cash From (Repay) ST Debt,CF_NET_CHG_IN_ST_DBT_&_CPTL_LEAS,0.0,0.0,0.0,0.0,0.0,—,—,—,—,
+    + Cash From LT Debt,CF_PROC_LT_DEBT_&_CAPITAL_LEASE,0.0,"1,381.0","1,133.5","3,584.6","2,204.5","4,182.0",187.0,"9,406.0","1,637.9",
+    + Repayments of LT Debt,CF_PYMT_LT_DEBT_&_CAPITAL_LEASE,0.0,-761.0,"-1,103.5","-3,182.9","-1,615.0","-3,218.0",-261.2,"-4,296.2","-2,707.8",
+  + Cash (Repurchase) of Equity,PROC_FR_REPURCH_EQTY_DETAILED,58.0,51.7,38.9,35.6,-334.4,42.2,42.0,42.6,58.8,60.9
+    + Increase in Capital Stock,CF_INCR_CAP_STOCK,58.0,51.7,38.9,35.6,29.4,42.2,42.0,42.6,58.8,60.9
+    + Decrease in Capital Stock,CF_DECR_CAP_STOCK,0.0,0.0,0.0,0.0,-363.8,0.0,0.0,0.0,0.0,0.0
+  + Other Financing Activities,OTHER_FIN_AND_DEC_CAP,0.0,-15.7,-22.7,-52.4,-23.9,-95.3,-45.6,-144.5,-77.0,"-2,753.7"
+  + Net Cash From Disc Ops,CF_NET_CASH_DISCONTINUED_OPS_FIN,0.0,0.0,0.0,0.0,0.0,—,—,0.0,0.0,0.0
+Cash from Financing Activities,CFF_ACTIVITIES_DETAILED,-208.1,382.2,-235.0,98.5,-59.9,595.5,-415.3,"4,663.5","-1,438.2","-1,621.2"
+,,,,,,,,,,,
+  Effect of Foreign Exchange Rates,CF_EFFECT_FOREIGN_EXCHANGES,0.0,1.0,0.0,-0.2,0.0,-1.0,0.0,0.0,0.0,0.0
+,,,,,,,,,,,
+Net Changes in Cash,CF_NET_CHNG_CASH,-68.2,-107.4,-61.7,141.2,"1,484.9","-1,184.0",-7.4,-472.7,-27.6,-33.5
+,,,,,,,,,,,
+Cash Paid for Taxes,CF_CASH_PAID_FOR_TAX,20.1,21.4,25.7,25.5,25.4,48.4,25.9,77.6,101.3,
+Cash Paid for Interest,CF_ACT_CASH_PAID_FOR_INT_DEBT,24.4,28.8,34.6,40.2,52.9,82.5,85.3,347.9,355.2,
+,,,,,,,,,,,
+Reference Items,,,,,,,,,,,
+EBITDA,EBITDA,495.9,382.7,648.0,703.9,635.5,745.0,"1,552.2","1,590.7","1,913.5","1,952.2"
+Trailing 12M EBITDA Margin,EBITDA_MARGIN,35.86,24.19,33.55,32.79,29.24,21.86,38.99,29.74,36.28,37.31
+Net Cash Paid for Acquisitions,CF_NET_CASH_PAID_FOR_AQUIS,38.6,752.3,11.2,627.8,343.9,"2,747.5",—,"7,850.6",0.0,
+Tax Benefit from Stock Options,CF_TAX_BENEFIT_FRM_STOCK_OPTIONS,0.6,0.3,1.4,1.2,0.7,—,—,—,—,
+Free Cash Flow,CF_FREE_CASH_FLOW,349.6,408.5,563.5,571.7,646.5,984.2,"1,212.8","1,445.9","1,476.2","1,683.0"
+Free Cash Flow to Firm,CF_FREE_CASH_FLOW_FIRM,380.0,442.8,608.0,—,—,—,"1,281.7",—,—,
+Free Cash Flow to Equity,FREE_CASH_FLOW_EQUITY,350.0,"1,028.9",609.7,973.4,"1,250.3","1,971.2","1,148.9","6,555.9",409.5,"3,118.9"
+Free Cash Flow per Basic Share,FREE_CASH_FLOW_PER_SH,1.83,2.10,2.84,2.85,3.18,4.53,5.21,6.12,6.18,6.84
+Price to Free Cash Flow,PX_TO_FREE_CASH_FLOW,20.35,17.51,16.81,17.19,15.16,16.28,17.54,13.55,10.97,19.92
+Cash Flow to Net Income,CASH_FLOW_TO_NET_INC,1.22,3.61,1.71,1.95,2.30,6.44,5.56,4.71,2.71,6.19
+Source: Bloomberg,,Right click to show data transparency (not supported for all values),,,,,,,,,
