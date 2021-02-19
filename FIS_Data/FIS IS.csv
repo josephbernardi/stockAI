@@ -1,0 +1,78 @@
+,,,,,,,,,,,
+Fidelity National Information Services Inc (FIS US) - Adjusted,,,,,,,,,,,
+,,,,,,,,,,,
+In Millions of USD except Per Share,,FY 2013,FY 2014,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019,Last 12M,FY 2020 Est,FY 2021 Est
+12 Months Ending,,12/31/2013,12/31/2014,12/31/2015,12/31/2016,12/31/2017,12/31/2018,12/31/2019,09/30/2020,12/31/2020,12/31/2021
+Revenue,SALES_REV_TURN,"6,063.4","6,413.0","6,596.0","8,831.0","8,668.0","8,423.0","10,333.0","12,578.0","12,573.3","13,627.5"
+    + Sales & Services Revenue,IS_SALES_AND_SERVICES_REVENUES,"6,063.4","6,413.0","6,596.0","8,831.0","8,668.0","8,423.0","10,333.0","12,578.0",,
+  - Cost of Revenue,IS_COGS_TO_FE_AND_PP_AND_G,"4,076.6","4,318.0","4,395.0","5,895.0","5,794.0","5,569.0","6,610.0","8,225.0",,
+    + Cost of Goods & Services,IS_COG_AND_SERVICES_SOLD,"4,076.6","4,318.0","4,395.0","5,895.0","5,794.0","5,569.0","6,610.0","8,225.0",,
+Gross Profit,GROSS_PROFIT,"1,986.8","2,095.0","2,201.0","2,936.0","2,874.0","2,854.0","3,723.0","4,353.0","4,572.0","5,382.4"
+  + Other Operating Income,IS_OTHER_OPER_INC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+  - Operating Expenses,IS_OPERATING_EXPN,776.8,793.5,883.0,"1,584.0","1,319.0","1,085.0","1,893.0","2,775.0",,
+"    + Selling, General & Admin",IS_SG&A_EXPENSE,767.6,793.5,"1,102.0","1,707.0","1,442.0","1,301.0","2,667.0","3,845.0",,
+    + Research & Development,IS_OPEX_R&D,0.0,0.0,0.0,0.0,0.0,0.0,Ñ,,,
+    + Other Operating Expense,IS_OTHER_OPERATING_EXPENSES,9.2,0.0,-219.0,-123.0,-123.0,-216.0,-774.0,"-1,070.0",,
+Operating Income (Loss),IS_OPER_INC,"1,210.0","1,301.5","1,318.0","1,352.0","1,555.0","1,769.0","1,830.0","1,578.0","3,197.6","3,901.0"
+  - Non-Operating (Income) Loss,IS_NONOP_INCOME_LOSS,178.5,163.1,136.0,193.0,257.0,353.0,458.0,310.0,,
+"    + Interest Expense, Net",IS_NET_INTEREST_EXPENSE,188.2,158.0,183.0,383.0,337.0,297.0,337.0,347.0,,
+    + Interest Expense,IS_INT_EXPENSE,198.6,173.0,199.0,403.0,359.0,314.0,389.0,347.0,,
+    - Interest Income,IS_INT_INC,10.4,15.0,16.0,20.0,22.0,17.0,52.0,0.0,,
+    + Foreign Exch (Gain) Loss,IS_FOREIGN_EXCH_LOSS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,
+    + (Income) Loss from Affiliates,INCOME_LOSS_FROM_AFFILIATES,0.0,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,,,
+    + Other Non-Op (Income) Loss,IS_OTHER_NON_OPERATING_INC_LOSS,-9.7,5.1,-47.0,-190.0,-80.0,56.0,121.0,-37.0,,
+"Pretax Income (Loss), Adjusted",PRETAX_INC,"1,031.5","1,138.4","1,182.0","1,159.0","1,298.0","1,416.0","1,372.0","1,268.0","3,978.7","4,743.0"
+  - Abnormal Losses (Gains),IS_ABNORMAL_ITEM,208.0,85.4,145.0,322.0,322.0,312.0,959.0,"1,287.0",,
+    + Merger/Acquisition Expense,IS_MERGER_ACQUISITION_EXPENSE,147.2,Ñ,Ñ,7.0,7.0,4.0,Ñ,113.0,,
+    + Early Extinguishment of Debt,IS_G_L_ON_EXT_DBT_OR_SETTLE_DBT,60.9,37.5,Ñ,199.0,199.0,1.0,98.0,,,
+    + Asset Write-Down,IS_IMPAIRMENT_ASSETS,Ñ,Ñ,Ñ,Ñ,Ñ,95.0,87.0,,,
+    + Impairment of Intangibles,IS_IMPAIR_OF_INTANG_ASSETS,-9.2,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,,,
+    + Gain/Loss on Sale/Acquisition of Business,IS_SALE_OF_BUSINESS,Ñ,Ñ,-139.0,-62.0,-62.0,56.0,6.0,,,
+    + Restructuring,IS_RESTRUCTURING_EXPENSES,9.1,Ñ,45.0,Ñ,Ñ,Ñ,Ñ,,,
+    + Other Abnormal Items,IS_OTHER_ONE_TIME_ITEMS,Ñ,47.9,239.0,178.0,178.0,156.0,768.0,"1,026.0",,
+"Pretax Income (Loss), GAAP",PRETAX_INC,823.5,"1,053.0","1,037.0",837.0,976.0,"1,104.0",413.0,-19.0,"3,978.7","4,743.0"
+  - Income Tax Expense (Benefit),IS_INC_TAX_EXP,308.9,335.0,379.0,291.0,-321.0,208.0,100.0,76.0,,
+    + Current Income Tax,IS_CURRENT_INCOME_TAX_BENEFIT,308.7,344.0,333.0,493.0,684.0,324.0,215.0,,,
+    + Deferred Income Tax,IS_DEFERRED_INCOME_TAX_BENEFIT,0.2,-9.0,46.0,-202.0,"-1,005.0",-116.0,-115.0,,,
+    + Tax Allowance/Credit,IS_TAX_VALN_ALLOWNCE_CREDITS,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,,,
+  - (Income) Loss from Affiliates,IS_SH_PRO_EQY_MT_INV_NET_OF_TAX,Ñ,Ñ,0.0,0.0,3.0,15.0,10.0,1.0,,
+Income (Loss) from Cont Ops,IS_INC_BEF_XO_ITEM,514.6,718.0,658.0,546.0,"1,294.0",881.0,303.0,-96.0,312.3,"1,245.2"
+  - Net Extraordinary Losses (Gains),XO_GL_NET_OF_TAX,-3.1,11.0,7.0,-1.0,0.0,0.0,0.0,0.0,,
+    + Discontinued Operations,IS_DISCONTINUED_OPERATIONS,-3.1,11.0,7.0,-1.0,0.0,0.0,0.0,0.0,,
+    + XO & Accounting Changes,IS_EXTRAORD_ITEMS_&_ACCTG_CHNG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+Income (Loss) Incl. MI,NI_INCLUDING_MINORITY_INT_RATIO,517.7,707.0,651.0,547.0,"1,294.0",881.0,303.0,-96.0,,
+  - Minority Interest,MIN_NONCONTROL_INTEREST_CREDITS,24.6,28.0,19.0,22.0,33.0,35.0,5.0,8.0,,
+"Net Income, GAAP",NET_INCOME,493.1,679.0,632.0,525.0,"1,261.0",846.0,298.0,-104.0,312.3,"1,245.2"
+  - Preferred Dividends,IS_TOT_CASH_PFD_DVD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+  - Other Adjustments,OTHER_ADJUSTMENTS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,
+"Net Income Avail to Common, GAAP",EARN_FOR_COMMON,493.1,679.0,632.0,525.0,"1,261.0",846.0,298.0,-104.0,312.3,"1,245.2"
+,,,,,,,,,,,
+"Net Income Avail to Common, Adj",EARN_FOR_COMMON,674.8,748.3,749.2,-17.7,"1,526.2","1,106.4","1,105.4","1,079.2","3,393.4","4,027.8"
+  Net Abnormal Losses (Gains),IS_NET_ABNORMAL_ITEMS,184.8,58.3,110.2,-541.7,265.2,260.4,807.4,"1,183.2",,
+  Net Extraordinary Losses (Gains),XO_GL_NET_OF_TAX,-3.1,11.0,7.0,-1.0,0.0,0.0,0.0,0.0,,
+,,,,,,,,,,,
+Basic Weighted Avg Shares,IS_AVG_NUM_SH_FOR_EPS,289.7,285.0,285.0,326.0,330.0,328.0,445.0,620.0,,
+"Basic EPS, GAAP",IS_EPS,1.70,2.38,2.22,1.61,3.82,2.58,0.67,-0.18,0.55,2.48
+Basic EPS from Cont Ops,IS_EARN_BEF_XO_ITEMS_PER_SH,1.69,2.42,2.24,1.61,3.82,2.58,0.67,-0.18,0.55,2.48
+"Basic EPS from Cont Ops, Adjusted",IS_BASIC_EPS_CONT_OPS,2.33,2.63,2.63,-0.05,4.62,3.37,2.48,1.75,5.41,6.43
+,,,,,,,,,,,
+Diluted Weighted Avg Shares,IS_SH_FOR_DILUTED_EPS,294.2,289.0,289.0,330.0,336.0,332.0,451.0,627.0,,
+"Diluted EPS, GAAP",IS_DILUTED_EPS,1.68,2.35,2.19,1.59,3.75,2.55,0.66,-0.18,0.55,2.48
+Diluted EPS from Cont Ops,IS_DIL_EPS_BEF_XO,1.67,2.39,2.21,1.59,3.75,2.55,0.66,-0.18,0.55,2.48
+"Diluted EPS from Cont Ops, Adjusted",IS_DIL_EPS_CONT_OPS,2.30,2.59,2.59,-0.05,4.54,3.33,2.45,1.73,5.41,6.43
+,,,,,,,,,,,
+Reference Items,,,,,,,,,,,
+Accounting Standard,ACCOUNTING_STANDARD,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,,,
+EBITDA,EBITDA,"1,844.5","1,927.5","1,987.0","2,505.0","2,921.0","3,189.0","4,419.0","5,336.0","5,259.0","6,116.0"
+EBITDA Margin (T12M),EBITDA_MARGIN,30.42,30.06,30.12,28.37,33.70,37.86,42.77,42.42,41.83,44.88
+EBITA,EBITA,"1,463.0","1,797.5","1,848.0","1,870.0","2,225.0","3,160.0","3,610.0","4,328.0",,
+EBIT,EBIT,"1,210.0","1,301.5","1,318.0","1,352.0","1,555.0","1,769.0","1,830.0","1,578.0","3,197.6","3,901.0"
+Gross Margin,GROSS_MARGIN,32.77,32.67,33.37,33.25,33.16,33.88,36.03,34.61,36.36,39.50
+Operating Margin,OPER_MARGIN,19.96,20.29,19.98,15.31,17.94,21.00,17.71,12.55,25.43,28.63
+Profit Margin,PROF_MARGIN,11.13,11.67,11.36,-0.20,17.61,13.14,10.70,8.58,26.99,29.56
+Sales per Employee,ACTUAL_SALES_PER_EMPL,"159,563.16","160,325.00","119,927.27","160,563.64","163,547.17","179,212.77","187,872.73",,,
+Dividends per Share,EQY_DPS,0.88,0.96,1.04,1.04,1.16,1.28,1.40,2.10,1.44,1.54
+Total Cash Common Dividends,IS_TOT_CASH_COM_DVD,260.4,273.6,333.0,365.0,412.0,451.0,665.0,"1,306.0",,
+Depreciation Expense,IS_DEPR_EXP,381.5,130.0,139.0,635.0,696.0,29.0,809.0,"1,008.0",,
+Rental Expense,BS_CURR_RENTAL_EXPENSE,80.0,85.3,92.8,143.0,134.0,147.0,179.0,,,
+Source: Bloomberg,,Right click to show data transparency (not supported for all values),,,,,,,,,

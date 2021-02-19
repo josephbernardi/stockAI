@@ -1,0 +1,100 @@
+,,,,,,,,,,,
+Fidelity National Information Services Inc (FIS US) - Standardized,,,,,,,,,,,
+,,,,,,,,,,,
+In Millions of USD except Per Share,,FY 2010,FY 2011,FY 2012,FY 2013,FY 2014,FY 2015,FY 2016,FY 2017,FY 2018,FY 2019
+12 Months Ending,,12/31/2010,12/31/2011,12/31/2012,12/31/2013,12/31/2014,12/31/2015,12/31/2016,12/31/2017,12/31/2018,12/31/2019
+Total Assets,,,,,,,,,,,
+"  + Cash, Cash Equivalents & STI",C&CE_AND_STI_DETAILED,338.0,415.5,517.6,547.5,492.8,682.0,683.0,665.0,703.0,"1,152.0"
+    + Cash & Cash Equivalents,BS_CASH_NEAR_CASH_ITEM,338.0,415.5,517.6,547.5,492.8,682.0,683.0,665.0,703.0,"1,152.0"
+    + ST Investments,BS_MKT_SEC_OTHER_ST_INVEST,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  + Accounts & Notes Receiv,BS_ACCT_NOTE_RCV,839.4,858.5,925.7,987.9,"1,126.4","1,893.0","1,814.0","1,915.0","1,753.0","3,889.0"
+"    + Accounts Receivable, Net",BS_ACCTS_REC_EXCL_NOTES_REC,839.4,858.5,925.7,987.9,"1,126.4","1,731.0","1,639.0","1,624.0","1,472.0","3,242.0"
+"    + Notes Receivable, Net",NOTES_RECEIVABLE,0.0,0.0,0.0,0.0,0.0,162.0,175.0,291.0,281.0,647.0
+  + Unbilled Revenues,BS_UNBILLED_REVENUES,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,108.0,123.0,124.0
+  + Inventories,BS_INVENTORIES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Raw Materials,INVTRY_RAW_MATERIALS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Work In Process,INVTRY_IN_PROGRESS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Finished Goods,INVTRY_FINISHED_GOODS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Other Inventory,BS_OTHER_INV,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  + Other ST Assets,OTHER_CURRENT_ASSETS_DETAILED,495.6,400.0,400.9,816.5,853.9,934.0,"1,785.0","1,000.0","1,154.0","3,527.0"
+    + Derivative & Hedging Assets,BS_DERIV_&_HEDGING_ASSETS_ST,0.0,0.0,0.0,Ñ,0.0,0.0,Ñ,Ñ,0.0,Ñ
+    + Assets Held-for-Sale,BS_ASSETS_HELD_FOR_SALE_ST,17.4,Ñ,0.0,0.0,6.8,0.0,863.0,0.0,0.0,0.0
+    + Deferred Tax Assets,BS_DEFERRED_TAX_ASSETS_ST,58.1,74.0,55.9,58.9,67.4,100.0,101.0,0.0,0.0,0.0
+    + Misc ST Assets,BS_OTHER_CUR_ASSET_LESS_PREPAY,420.1,326.0,345.0,757.6,779.7,834.0,821.0,"1,000.0","1,154.0","3,527.0"
+Total Current Assets,BS_CUR_ASSET_REPORT,"1,673.0","1,674.0","1,844.2","2,351.9","2,473.1","3,509.0","4,282.0","3,688.0","3,733.0","8,692.0"
+"  + Property, Plant & Equip, Net",BS_NET_FIX_ASSET,390.0,414.5,419.5,439.0,483.3,611.0,626.0,610.0,587.0,"1,464.0"
+"    + Property, Plant & Equip",BS_GROSS_FIX_ASSET,787.6,882.7,975.5,"1,077.4","1,204.4","1,396.0","1,488.0","1,657.0","1,645.0","2,741.0"
+    - Accumulated Depreciation,BS_ACCUM_DEPR,397.6,468.2,556.0,638.4,721.1,785.0,862.0,"1,047.0","1,058.0","1,277.0"
+  + LT Investments & Receivables,BS_LT_INVEST,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  + Other LT Assets,BS_OTHER_ASSETS_DEF_CHRG_OTHER,"12,113.3","11,784.7","11,286.0","11,169.2","11,564.1","22,080.0","21,123.0","20,228.0","19,450.0","73,650.0"
+    + Total Intangible Assets,BS_DISCLOSED_INTANGIBLES,"11,916.1","11,560.3","11,015.9","10,902.6","11,252.2","21,741.0","20,760.0","19,697.0","18,947.0","71,911.0"
+    + Goodwill,BS_GOODWILL,"8,550.0","8,542.8","8,381.5","8,500.0","8,877.6","14,745.0","14,178.0","13,730.0","13,545.0","52,242.0"
+    + Other Intangible Assets,OTHER_INTANGIBLE_ASSETS_DETAILED,"3,366.1","3,017.5","2,634.4","2,402.6","2,374.6","6,996.0","6,582.0","5,967.0","5,402.0","19,669.0"
+    + Deferred Tax Assets,BS_DEFERRED_TAX_ASSETS_LT,Ñ,Ñ,Ñ,Ñ,9.5,22.0,25.0,30.0,32.0,38.0
+    + Derivative & Hedging Assets,BS_DERIV_&_HEDGING_ASSETS_LT,0.0,0.0,0.0,Ñ,0.0,1.0,Ñ,0.0,0.0,Ñ
+    + Misc LT Assets,OTHER_NONCURRENT_ASSETS_DETAILED,197.2,224.4,270.1,266.6,302.4,316.0,338.0,501.0,471.0,"1,701.0"
+Total Noncurrent Assets,BS_TOT_NON_CUR_ASSET,"12,503.3","12,199.2","11,705.5","11,608.2","12,047.4","22,691.0","21,749.0","20,838.0","20,037.0","75,114.0"
+Total Assets,BS_TOT_ASSET,"14,176.3","13,873.2","13,549.7","13,960.1","14,520.5","26,200.0","26,031.0","24,526.0","23,770.0","83,806.0"
+,,,,,,,,,,,
+Liabilities & Shareholders' Equity,,,,,,,,,,,
+  + Payables & Accruals,ACCT_PAYABLE_&_ACCRUALS_DETAILED,591.8,642.9,624.6,768.0,730.3,"1,196.0","1,146.0","1,241.0","1,099.0","2,245.0"
+    + Accounts Payable,BS_ACCT_PAYABLE,119.0,100.6,93.4,147.0,186.8,564.0,512.0,776.0,687.0,"1,386.0"
+    + Accrued Taxes,BS_TAXES_PAYABLE,0.0,0.0,0.0,0.0,0.0,0.0,Ñ,0.0,Ñ,Ñ
+    + Interest & Dividends Payable,BS_INTEREST_&_DIVIDENDS_PAYABLE,0.0,0.0,0.0,0.0,0.0,0.0,Ñ,0.0,Ñ,Ñ
+    + Other Payables & Accruals,BS_ACCRUAL,472.8,542.3,531.2,621.0,543.5,632.0,634.0,465.0,412.0,859.0
+  + ST Debt,BS_ST_BORROW,397.5,400.4,153.9,128.8,13.1,15.0,332.0,"1,045.0",315.0,"3,092.0"
+    + ST Borrowings,SHORT_TERM_DEBT_DETAILED,140.6,141.2,0.0,0.0,0.0,0.0,0.0,0.0,267.0,"2,823.0"
+    + ST Lease Liabilities,ST_CAPITALIZED_LEASE_LIABILITIES,0.0,0.0,0.0,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,129.0
+      + ST Finance Leases,ST_CAPITAL_LEASE_OBLIGATIONS,0.0,0.0,0.0,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ
+      + ST Operating Leases,BS_ST_OPERATING_LEASE_LIABS,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,129.0
+    + Current Portion of LT Debt,BS_CURR_PORTION_LT_DEBT,256.9,259.2,153.9,128.8,13.1,15.0,332.0,"1,045.0",48.0,140.0
+  + Other ST Liabilities,OTHER_CURRENT_LIABS_SUB_DETAILED,311.1,313.0,478.3,775.9,855.5,"1,153.0","1,673.0","1,725.0","1,711.0","5,045.0"
+    + Deferred Revenue,ST_DEFERRED_REVENUE,268.6,276.5,287.3,243.6,279.4,615.0,680.0,776.0,739.0,817.0
+    + Derivatives & Hedging,BS_DERIVATIVE_&_HEDGING_LIABS_ST,3.4,3.4,1.0,Ñ,0.7,0.0,Ñ,0.0,0.0,Ñ
+    + Deferred Tax Liabilities,BS_DEFERRED_TAX_LIABS_ST,Ñ,Ñ,Ñ,Ñ,3.7,2.0,4.0,0.0,0.0,0.0
+    + Misc ST Liabilities,OTHER_CURRENT_LIABS_DETAILED,39.1,33.1,190.0,532.3,571.7,536.0,989.0,949.0,972.0,"4,228.0"
+Total Current Liabilities,BS_CUR_LIAB,"1,300.4","1,356.3","1,256.8","1,672.7","1,598.9","2,364.0","3,151.0","4,011.0","3,125.0","10,382.0"
+  + LT Debt,BS_LT_BORROW,"4,935.2","4,550.6","4,231.6","4,339.8","5,054.6","11,429.0","10,146.0","7,718.0","8,670.0","17,695.0"
+    + LT Borrowings,LONG_TERM_BORROWINGS_DETAILED,"4,935.2","4,550.6","4,231.6","4,339.8","5,054.6","11,420.0","10,103.0","7,718.0","8,579.0","17,229.0"
+    + LT Lease Liabilities,LT_CAPITALIZED_LEASE_LIABILITIES,0.0,0.0,0.0,Ñ,Ñ,9.0,43.0,Ñ,91.0,466.0
+    + LT Finance Leases,LT_CAPITAL_LEASE_OBLIGATIONS,0.0,0.0,0.0,Ñ,Ñ,9.0,43.0,Ñ,91.0,Ñ
+    + LT Operating Leases,BS_LT_OPERATING_LEASE_LIABS,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,Ñ,466.0
+  + Other LT Liabilities,OTHER_NONCUR_LIABS_SUB_DETAILED,"1,379.1","1,315.1","1,267.7","1,210.3","1,175.5","3,000.0","2,889.0","1,977.0","1,753.0","6,273.0"
+    + Accrued Liabilities,BS_ACCRUED_LIABILITIES,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Pension Liabilities,PENSION_LIABILITIES,31.1,33.0,40.6,45.9,51.6,49.0,50.0,57.0,54.0,0.0
+    + Pensions,BS_PENSIONS_LT_LIABS,31.1,33.0,40.6,45.9,51.6,49.0,50.0,57.0,54.0,0.0
+    + Other Post-Ret Benefits,BS_OPRB_LT_LIABS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+    + Deferred Revenue,LT_DEFERRED_REVENUE,86.3,884.1,42.2,27.2,26.1,30.0,19.0,106.0,67.0,52.0
+    + Deferred Tax Liabilities,BS_DEFERRED_TAX_LIABILITIES_LT,859.3,55.9,821.8,823.6,874.4,"2,658.0","2,484.0","1,468.0","1,360.0","4,281.0"
+    + Derivatives & Hedging,BS_DERIVATIVE_&_HEDGING_LIABS_LT,18.3,4.0,9.4,Ñ,0.9,1.0,Ñ,0.0,0.0,Ñ
+    + Misc LT Liabilities,OTHER_NONCURRENT_LIABS_DETAILED,384.1,338.1,353.7,313.6,222.5,262.0,336.0,346.0,272.0,"1,940.0"
+Total Noncurrent Liabilities,NON_CUR_LIAB,"6,314.3","5,865.7","5,499.3","5,550.1","6,230.1","14,429.0","13,035.0","9,695.0","10,423.0","23,968.0"
+Total Liabilities,BS_TOT_LIAB2,"7,614.7","7,222.0","6,756.1","7,222.8","7,829.0","16,793.0","16,186.0","13,706.0","13,548.0","34,350.0"
+  + Preferred Equity and Hybrid Capital,BS_PFD_EQTY_&_HYBRID_CPTL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+  + Share Capital & APIC,BS_SH_CAP_AND_APIC,"7,203.5","7,228.5","7,200.8","7,251.5","7,340.7","10,214.0","10,384.0","10,538.0","10,804.0","45,364.0"
+    + Common Stock,BS_COMMON_STOCK,3.8,3.8,3.8,3.9,3.9,4.0,4.0,4.0,4.0,6.0
+    + Additional Paid in Capital,BS_ADD_PAID_IN_CAP,"7,199.7","7,224.7","7,197.0","7,247.6","7,336.8","10,210.0","10,380.0","10,534.0","10,800.0","45,358.0"
+  - Treasury Stock,BS_AMT_OF_TSY_STOCK,"2,359.4","2,642.2","2,695.7","3,003.0","3,423.6","3,687.0","3,611.0","3,604.0","4,687.0",52.0
+  + Retained Earnings,BS_PURE_RETAINED_EARNINGS,"1,471.2","1,880.4","2,105.8","2,341.9","2,746.8","3,073.0","3,299.0","4,109.0","4,528.0","4,161.0"
+  + Other Equity,OTHER_EQUITY_RATIO,87.9,36.3,30.0,-9.9,-107.2,-279.0,-331.0,-332.0,-430.0,-33.0
+Equity Before Minority Interest,EQTY_BEF_MINORITY_INT_DETAILED,"6,403.2","6,503.0","6,640.9","6,580.5","6,556.7","9,321.0","9,741.0","10,711.0","10,215.0","49,440.0"
+  + Minority/Non Controlling Interest,MINORITY_NONCONTROLLING_INTEREST,158.4,148.2,152.7,156.8,134.8,86.0,104.0,109.0,7.0,16.0
+Total Equity,TOTAL_EQUITY,"6,561.6","6,651.2","6,793.6","6,737.3","6,691.5","9,407.0","9,845.0","10,820.0","10,222.0","49,456.0"
+Total Liabilities & Equity,TOT_LIAB_AND_EQY,"14,176.3","13,873.2","13,549.7","13,960.1","14,520.5","26,200.0","26,031.0","24,526.0","23,770.0","83,806.0"
+,,,,,,,,,,,
+Reference Items,,,,,,,,,,,
+Accounting Standard,ACCOUNTING_STANDARD,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP,US GAAP
+Shares Outstanding,BS_SH_OUT,301.9,292.9,294.1,290.6,284.9,324.0,328.0,333.0,327.0,616.3
+Number of Treasury Shares,BS_NUM_OF_TSY_SH,80.8,91.7,91.8,96.4,102.7,106.0,103.0,99.0,106.0,Ñ
+Pension Obligations,BS_PENSION_RSRV,31.1,33.0,40.6,45.9,51.6,49.0,50.0,57.0,54.0,0.0
+Future Minimum Operating Lease Obligations,BS_FUTURE_MIN_OPER_LEASE_OBLIG,278.6,285.3,226.6,242.3,266.6,437.7,401.0,344.0,480.0,664.0
+Capital Leases - Total,BS_TOTAL_CAPITAL_LEASES,0.0,0.0,0.0,16.9,Ñ,9.0,43.0,Ñ,91.0,Ñ
+Options Granted During Period,BS_OPTIONS_GRANTED,5.1,3.4,2.0,4.2,4.4,3.1,5.3,4.0,1.0,1.0
+Options Outstanding at Period End,BS_OPTIONS_OUTSTANDING,31.4,30.4,15.8,13.8,15.4,15.7,17.0,15.0,10.0,11.0
+Net Debt,NET_DEBT,"4,994.7","4,535.5","3,867.9","3,921.1","4,574.9","10,762.0","9,795.0","8,098.0","8,282.0","19,635.0"
+Net Debt to Equity,NET_DEBT_TO_SHRHLDR_EQTY,76.12,68.19,56.93,58.20,68.37,114.40,99.49,74.84,81.02,39.70
+Tangible Common Equity Ratio,TCE_RATIO,-243.91,-218.66,-172.67,-141.36,-143.67,-278.54,-209.05,-186.08,-181.05,-188.91
+Current Ratio,CUR_RATIO,1.29,1.23,1.47,1.41,1.55,1.48,1.36,0.92,1.19,0.84
+Cash Held Overseas,BS_CASH_HELD_OVERSEAS,Ñ,Ñ,Ñ,368.9,310.5,438.6,470.0,415.0,340.0,570.0
+Number of Employees,NUM_OF_EMPLOYEES,"33,000.00","33,000.00",Ñ,"38,000.00","40,000.00","55,000.00","55,000.00","53,000.00","47,000.00","55,000.00"
+Source: Bloomberg,,Right click to show data transparency (not supported for all values),,,,,,,,,
